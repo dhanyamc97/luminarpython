@@ -19,6 +19,12 @@ for n_num in lst:
 print(even)
 print(odd)
 
+a=10
+b=20
+
+a,b = b,a
+print(a,b)
+
 
 
 
